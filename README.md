@@ -22,13 +22,13 @@ I Hope You Enjoy Using Vega X!
                                     !! **Images | : | LOOK AT ALL** !!
 ----------------------------------------------------------------------------------------------------------
 
-![1](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif) **Loading**
+![1](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif)  **Loading**
 
-![2](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif) **Loading**
+![2](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif)  **Loading**
 
-![3](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif) **Loading**
+![3](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif)  **Loading**
 
-![4](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif) **Loading**
+![4](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif)  **Loading**
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
 
