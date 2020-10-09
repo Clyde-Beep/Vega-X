@@ -19,3 +19,13 @@ I Hope You Enjoy Using Vega X!
 ~ 1_F0 ~ https://1f0discordlink.weebly.com/
 
 ----------------------------------------------------------------------------------------------------------
+                                    !! **Images | : | LOOK AT ALL** !!
+----------------------------------------------------------------------------------------------------------
+
+![1](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif) **Loading**
+
+![2](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif) **Loading**
+
+![3](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif) **Loading**
+
+![4](https://github.githubassets.com/images/spinners/octocat-spinner-128.gif) **Loading**
